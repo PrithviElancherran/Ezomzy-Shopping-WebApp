@@ -1,3 +1,1 @@
-#Ecomzy Shopping WebApp
-
-![UI](images/Ecomzy_UI.png)
+![UI](images/ecomzy_UI.png)
