@@ -1,1 +1,1 @@
-![UI](images/ecomzy_UI.png)
+![UI](images/ecomzy_ui.png)
